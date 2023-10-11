@@ -361,12 +361,12 @@ input[type="checkbox"] {
     align-items: center;
 }
 
-h2 {
-    font-size: 20px;
+.populaires i {
+    color: #0065fc;
 }
 
-.section-2 i {
-    color: #0065fc;
+h2 {
+    font-size: 20px;
 }
 
 .section-2 h3 {
